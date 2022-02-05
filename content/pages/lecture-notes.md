@@ -6,25 +6,396 @@ uid: 4bd3a508-0fcc-f8ec-2607-8dcbdb398798
 
 Overviews and lecture note slides are available for most lectures. The additional materials shown below were handed out in class.
 
-| LEC # | TOPICS | OVERVIEW | NOTES | HANDOUTS |
-| --- | --- | --- | --- | --- |
-| 1 | Overview  {{< br >}}  {{< br >}}Acknowledgement is hereby given to Professor G. Peter Wilson for his authorship of the following works incorporated into this slideshow: {{< br >}}{{< br >}} *   The Five Challenges (slides 4-5){{< br >}}*   "What Do Intel and Accountants Have in Common?" (slides 9-16){{< br >}}*   A Conceptual Framework for Financial Accounting (slide 17) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lec1overview)) | ([PDF]({{< baseurl >}}/resources/lec1notes)) | &nbsp; |
-| 2 | Principles of Accrual Accounting | ([PDF]({{< baseurl >}}/resources/lec2overview)) | ([PDF]({{< baseurl >}}/resources/lec2)) | &nbsp; |
-| 3 | Elements of an Annual Report and Financial Ratios | ([PDF]({{< baseurl >}}/resources/lec3overview)) | &nbsp; |
-| 4 | Revenue Recognition | ([PDF]({{< baseurl >}}/resources/lec4overview)) | ([PDF]({{< baseurl >}}/resources/lec4notes)) | &nbsp; |
-| 5 | Revenue Recognition | ([PDF]({{< baseurl >}}/resources/lec5overview)) | ([PDF]({{< baseurl >}}/resources/lec5notes)) | &nbsp; |
-| 6 | Inventory / Cost of Goods Sold | ([PDF]({{< baseurl >}}/resources/lec6overview)) | ([PDF]({{< baseurl >}}/resources/lec6notes)) | &nbsp; |
-| 7 | Long-Term Assets / Depreciation | ([PDF]({{< baseurl >}}/resources/lec7overview)) | ([PDF]({{< baseurl >}}/resources/lec7notes)) | &nbsp; |
-| 8 | Matching Principle for PP&E | ([PDF]({{< baseurl >}}/resources/lec8overview)) | &nbsp; |
-| 9 | Statement of Cash Flow | ([PDF]({{< baseurl >}}/resources/lec9overview)) | ([PDF]({{< baseurl >}}/resources/lec9notes)) | Exercise for Preparing the Statement of Cash Flows ([PDF]({{< baseurl >}}/resources/lec9handout1))  {{< br >}}Note on Cash Flow Statements ([PDF]({{< baseurl >}}/resources/lec9handout2)) |
-| 10 | Additional Discussion of Topics | &nbsp; | ([PDF]({{< baseurl >}}/resources/lec10notes)) | &nbsp; |
-| 11 | Accounting for Taxes | ([PDF]({{< baseurl >}}/resources/lec11overview)) | ([PDF]({{< baseurl >}}/resources/lec11notes)) | &nbsp; |
-| 12 | Marketable Securities | ([PDF]({{< baseurl >}}/resources/lec12overview)) | ([PDF]({{< baseurl >}}/resources/lec12notes)) | &nbsp; |
-| 13 | Current Liabilities / Long-Term Debt | ([PDF]({{< baseurl >}}/resources/lec13overview)) | ([PDF]({{< baseurl >}}/resources/lec13notes)) | Class Preparation Questions ([PDF]({{< baseurl >}}/resources/lec13caseprep)) |
-| 14 | Long-Term Debt | ([PDF]({{< baseurl >}}/resources/lec14overview)) | ([PDF]({{< baseurl >}}/resources/lec14notes)) | &nbsp; |
-| 15 | Leases and Off-Balance Sheet Financing | ([PDF]({{< baseurl >}}/resources/lec15overview)) | ([PDF]({{< baseurl >}}/resources/lec15notes)) | &nbsp; |
-| 16 | Introduction to Cost Concepts | ([PDF]({{< baseurl >}}/resources/lec16overview)) | ([PDF]({{< baseurl >}}/resources/lec16notes)) | &nbsp; |
-| 17 | Activity-Based Costing | ([PDF]({{< baseurl >}}/resources/lec17overview)) | &nbsp; |
-| 18 | Moving Beyond ABC | ([PDF]({{< baseurl >}}/resources/lec18overview)) | &nbsp; |
-| 19 | Managerial Accounting and Financial Reporting | ([PDF]({{< baseurl >}}/resources/lec19overview)) | &nbsp; |
-| 20 | Wrap-up | &nbsp; | ([PDF]({{< baseurl >}}/resources/lec20notes)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+OVERVIEW
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview  
+  
+Acknowledgement is hereby given to Professor G. Peter Wilson for his authorship of the following works incorporated into this slideshow:
+
+*   The Five Challenges (slides 4-5)
+*   "What Do Intel and Accountants Have in Common?" (slides 9-16)
+*   A Conceptual Framework for Financial Accounting (slide 17)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec1overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec1notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Principles of Accrual Accounting
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec2overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Elements of an Annual Report and Financial Ratios
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec3overview))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue Recognition
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec4overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec4notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue Recognition
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec5overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec5notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory / Cost of Goods Sold
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec6overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec6notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Long-Term Assets / Depreciation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec7overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec7notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Matching Principle for PP&E
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec8overview))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Statement of Cash Flow
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec9overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec9notes))
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise for Preparing the Statement of Cash Flows ([PDF]({{< baseurl >}}/resources/lec9handout1))  
+Note on Cash Flow Statements ([PDF]({{< baseurl >}}/resources/lec9handout2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Additional Discussion of Topics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec10notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Accounting for Taxes
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec11overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec11notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Marketable Securities
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec12overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec12notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Current Liabilities / Long-Term Debt
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec13overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec13notes))
+{{< tdclose >}}
+{{< tdopen >}}
+Class Preparation Questions ([PDF]({{< baseurl >}}/resources/lec13caseprep))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Long-Term Debt
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec14overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec14notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Leases and Off-Balance Sheet Financing
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec15overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec15notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Cost Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec16overview))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec16notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Activity-Based Costing
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec17overview))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Moving Beyond ABC
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec18overview))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial Accounting and Financial Reporting
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec19overview))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec20notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
