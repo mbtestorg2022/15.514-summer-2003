@@ -4,6 +4,7 @@ description: 'Description on Financial Accounting Concepts:  Objectives, Game pl
   and exercises.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-514-financial-and-managerial-accounting-summer-2003/c196ee3a70dfd08a2e72a6e1bb262fa8_lec2.pdf
 file_type: application/pdf
+parent_uid: 4bd3a508-0fcc-f8ec-2607-8dcbdb398798
 resourcetype: Document
 title: lec2.pdf
 uid: c196ee3a-70df-d08a-2e72-a6e1bb262fa8
